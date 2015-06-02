@@ -64,6 +64,10 @@ p.btn-custom, p.btn:hover, p.btn:focus{color:lighten($cream,25%);}
   padding: 4px 6px;
 }
 
+.extra{
+  background-color: $buttonDark;
+}
+
 p.btn:hover {
   background-color: darken($buttonLight,14%);
 }
