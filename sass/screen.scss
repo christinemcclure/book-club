@@ -24,9 +24,9 @@ h1, h2, h3, h4 {
 
 $titleFont: 24px;
 
-h1{color: darken($grey,14%); font-weight: 900; font-size:42px;}
+h1, h1 a{color: darken($grey,14%); font-weight: 900; font-size:42px;}
 h2 {color: darken($grey,10%); font-weight: 900; font-size:32px;}
-h3 {color: lighten($blue, 8%); font-size: $titleFont*.7;}
+h3 {color: lighten($blue, 2%); font-size: $titleFont*.9;}
 h4 {color: darken($cream, 2%); font-size: 16px;}
 
 body{
@@ -56,7 +56,7 @@ p.btn-custom, p.btn:hover, p.btn:focus{color:lighten($cream,25%);}
 
 .btn-custom {
   font-size:13px;
-  width: 100px;
+  width: 120px;
   font-weight:900;
   margin: 4px;
   background-color: $buttonLight;
