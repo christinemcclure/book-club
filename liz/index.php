@@ -1,7 +1,7 @@
 <?php include("..\includes\head.html");?>
 
 <div class="row">
-    <h2 class="name-header">Carrie's Picks</h2>
+    <h2 class="name-header">Liz's Picks</h2>
     <div class="list-group">
         
         <div class="list-group-item">
