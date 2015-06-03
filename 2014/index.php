@@ -23,7 +23,7 @@
     
     <div class="row">
       <nav>
-        <a href="/"><p class="btn btn-custom">Home</p></a>
+        <a href="/"><p class="btn btn-custom">Back</p></a>
    </nav>
     </div>      
        
