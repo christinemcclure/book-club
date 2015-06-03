@@ -9,9 +9,9 @@
   <title>Book Club Selections</title>
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/screen.css" />
-  <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/css3.css" />
-  <link rel="stylesheet" type="text/css" media="print" href="../stylesheets/print.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/screen.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/css3.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="stylesheets/print.css" />
  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
  
   </head>
