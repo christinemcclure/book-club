@@ -1,4 +1,4 @@
-<?php include("..\includes\head.html");?>
+<?php include("../includes/head.html");?>
 
   <div class="row">
     <div class="list-group">

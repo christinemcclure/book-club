@@ -1,4 +1,4 @@
-<?php include("..\includes\head.html");?>
+<?php include("../includes/head.html");?>
   
   <div class="row">
     <a name="gretchen"></a><h2 class="name-header">Gretchen's Picks</h2>
