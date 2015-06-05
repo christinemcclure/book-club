@@ -3,10 +3,6 @@
   <div class="row">
    <h2 class="name-header">Cookbooks!</h2>
     <div class="list-group">
-
-        <div class="list-group-item">
-            <a href="#top"><p class="btn top">top</p></a>
-        </div>
         
         <div class="list-group-item">
             <h3>A Boat, a Whale &amp; a Walrus: Menus and Stories</h3>
