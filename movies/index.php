@@ -24,7 +24,15 @@
         <p>An inventor from 1870 finds himself in front of a TV. Can he understand it?</p>            
             <a target="_blank" href="http://www.imdb.com/title/tt1826006/?ref_=fn_al_tt_1"><img src="../images/imdb.png" ></a>
         </div>
-        
+      
+     
+        <div class="list-group-item">
+        <h3>Playtime</h3>
+        <h4>Directed by Jacques Tati</h4>
+        <p>Monsieur Hulot curiously wanders around a high-tech Paris, paralleling a trip with a group of American tourists. Meanwhile, a nightclub/restaurant prepares its opening night, but it's still under construction.</p>            
+            <a target="_blank" href="http://www.imdb.com/title/tt0062136/?ref_=fn_al_tt_1"><img src="../images/imdb.png" ></a>
+        </div>
+      
        <div class="list-group-item">
             <a href="#top"><p class="btn top">top</p></a>
         </div>       

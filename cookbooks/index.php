@@ -25,6 +25,15 @@
             <a target="_blank" href="http://www.worldcat.org/title/boat-a-whale-a-walrus-menus-and-stories/oclc/883365158&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>        
 
+    
+        <div class="list-group-item">
+            <h3>Jerusalem: A Cookbook</h3>
+            <h4>by Yotam Ottolenghi and Sami Tamimi</h4>
+            <p>Ottolenghi and Tamimi explore  the vibrant cuisine of their home city—with its diverse Muslim, Jewish, and Christian communities. Both men were born in Jerusalem in the same year—Tamimi on the Arab east side and Ottolenghi in the Jewish west. This stunning cookbook offers 120 recipes from their unique cross-cultural perspective, from inventive vegetable dishes to sweet, rich desserts. With five bustling restaurants in London and two stellar cookbooks, Ottolenghi is one of the most respected chefs in the world; in Jerusalem, he and Tamimi have collaborated to produce their most personal cookbook yet.</p>            
+            <a target="_blank" href="http://www.amazon.com/Jerusalem-Cookbook-Yotam-Ottolenghi/dp/1607743949/ref=sr_1_1?s=books&ie=UTF8&qid=1433637310&sr=1-1&keywords=Jerusalem%2C+Yotam+Ottolenghi+and+Sami+Tamimi"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/jerusalem-a-cookbook/oclc/775415538&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+        </div>    
+      
         <div class="list-group-item">
             <h3>Soul Food: The Surprising Story of an American Cuisine, One Plate at a Time</h3>
             <h4>by Adrian Miller</h4>
