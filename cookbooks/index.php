@@ -23,8 +23,21 @@
             <p>One of the country's most acclaimed chefs, Renee Erickson is a James-Beard nominated chef and the owner of several Seattle restaurants: The Whale Wins, Boat Street Café, The Walrus and the Carpenter, and Barnacle. This luscious cookbook is perfect for anyone who loves the fresh seasonal food of the Pacific Northwest. Defined by the bounty of the Puget Sound region, as well as by French cuisine, this cookbook is filled with seasonal, personal menus like Renee’s Fourth of July Crab Feast, Wild Foods Dinner, and a fall pickling party. Home cooks will cherish Erickson’s simple yet elegant recipes such as Roasted Chicken with Fried Capers and Preserved Lemons, Harissa-Rubbed Roasted Lamb, and Molasses Spice Cake. Renee Erickson's food, casual style, and appreciation of simple beauty is an inspiration to readers and eaters in the Pacific Northwest and beyond.</p>            
             <a target="_blank" href="http://www.amazon.com/Boat-Whale-Walrus-Menus-Stories/dp/1570619263/ref=sr_1_1?s=books&ie=UTF8&qid=1433262871&sr=1-1&keywords=A+Boat%2C+A+Whale%2C+and+a+Walrus%2C+by+Renee+Erikson+and+Jess+Thomson"><img src="../images/amazon.jpg" ></a>
             <a target="_blank" href="http://www.worldcat.org/title/boat-a-whale-a-walrus-menus-and-stories/oclc/883365158&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>        
-
+        </div>    
+        
+        <div class="list-group-item">
+            <h3>Fifty Shades of Chicken: A Parody in a Cookbook</h3>
+            <h4>by F.L. Fowler</h4>
+            <p>Dripping Thighs, Sticky Chicken Fingers, Vanilla Chicken, Chicken with a Lardon, Bacon-Bound Wings, Spatchcock Chicken, Learning-to-Truss-You Chicken, Holy Hell Wings, Mustard-Spanked Chicken, and more, more, more!</p> 
+            <p>Fifty chicken recipes, each more seductive than the last, in a book that makes every dinner a turn-on.  </p>
+            <p>"I want you to see this. Then you’ll know everything. It’s a cookbook,” he says and opens to some recipes, with color photos. “I want to prepare you, very much.” This isn’t just about getting me hot till my juices run clear, and then a little rest. There’s pulling, jerking, stuffing, trussing. Fifty preparations. He promises we’ll start out slow, with wine and a good oiling . . . Holy crap. “I will control everything that happens here,” he says. “You can leave anytime, but as long as you stay, you’re my ingredient." I’ll be transformed from a raw, organic bird into something—what? Something delicious. </p>
+            <p>So begins the adventures of Miss Chicken, a young free-range, from raw innocence to golden brown ecstasy, in this spoof-in-a-cookbook that simmers in the afterglow of E.L. James’s sensational Fifty Shades of Grey trilogy. Like Anastasia Steele, Miss Chicken finds herself at the mercy of a dominating man, in this case, a wealthy, sexy, and very hungry chef.  </p>
+            <p>And before long, from unbearably slow drizzling to trussing, Miss Chicken discovers the sheer thrill of becoming the main course. A parody in three acts—“The Novice Bird” (easy recipes for roasters), “Falling to Pieces” (parts perfect for weeknight meals), and “Advanced Techniques” (the climax of cooking)—Fifty Shades of Chicken is a cookbook of fifty irresistible, repertoire-boosting chicken dishes that will leave you hungry for more.</p>
+            <p>With memorable tips and revealing photographs, Fifty Shades of Chicken will have you dominating dinner.</p>
+            <a target="_blank" href="http://www.amazon.com/Fifty-Shades-Chicken-Parody-Cookbook/dp/0385345224/ref=sr_1_1?s=books&ie=UTF8&qid=1433863907&sr=1-1&keywords=Fifty+Shades+of+Chicken+by+FL+Fowler"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/fifty-shades-of-chicken-a-parody-in-a-cookbook/oclc/811337388&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+        </div>    
+      
     
         <div class="list-group-item">
             <h3>Jerusalem: A Cookbook</h3>
