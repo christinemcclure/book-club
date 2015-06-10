@@ -10,12 +10,18 @@
         <p>In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story of five mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality blurs as the tale advances.</p>
         <a target="_blank" href="http://www.imdb.com/title/tt0460791/?ref_=fn_al_tt_2"><img src="../images/imdb.png" ></a>
         </div>   
-      
         <div class="list-group-item">          
         <h3>Godzilla</h3>
         <h4>Directed by Ishirô Honda</h4>
         <p>American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.</p>
         <a target="_blank" href="http://www.imdb.com/title/tt0047034/?ref_=fn_al_tt_3"><img src="../images/imdb.png" ></a>
+        </div>  
+      
+        <div class="list-group-item">          
+        <h3>Life Itself</h3>
+        <h4>Directed by Steve James</h4>
+        <p>The life and career of the renowned film critic and social commentator, Roger Ebert.</p>
+        <a target="_blank" href="http://www.imdb.com/title/tt2382298/?ref_=fn_al_tt_2"><img src="../images/imdb.png" ></a>
         </div>       
       
         <div class="list-group-item">          
