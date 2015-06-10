@@ -5,6 +5,18 @@
     <div class="list-group">
     
         <div class="list-group-item">
+            <h3>The Food You Want to Eat: 100 Smart, Simple Recipes</h3>
+            <h4>by Ted Allen </h4>
+            <p>Queer Eye for the Straight Guy’s food-and-wine connoisseur, Ted Allen, presents a quick-reference cookbook—giving you the food you really want to cook and eat, and the know-how to pull it off with ease.</p>
+            <p>
+
+"With most cookbooks, you could plow through 134 pages of complicated hors d’oeuvres, salads, and the author’s philosophical musings about food before you get to the stuff you actually want to eat. Not here. I’m going to save you the trouble and get to the point right up front.” These first sentences of the book sum up what Ted Allen’s The Food You Want to Eat is all about—the tempting, delicious, satisfying fare you really want on your dinner table tonight, without the fuss and the formalities. Chapters include:...</p>
+
+            <a target="_blank" href="http://www.amazon.com/Food-You-Want-Eat-Recipes/dp/1400080908/ref=sr_1_1?s=books&ie=UTF8&qid=1433898416&sr=1-1&keywords=The+Food+You+Want+to+Eat"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/food-you-want-to-eat-100-smart-simple-recipes/oclc/56876934&referer=brief_results" /><img src="../images/worldcat.jpg" /></a>
+        </div>    
+      
+        <div class="list-group-item">
             <h3>At Home with the French Classics</h3>
             <h4>by Richard Grausman</h4>
 <p>Despite our growing kitchen savvy, many Americans still find French food too intimidating, too time-consuming, and too complicated. Richard Grausman, a well-known teacher of French cooking, has had a long-time mission to dispel this fear and make French cooking accessible and understandable to the American home cook. The result? AT HOME WITH THE FRENCH CLASSICS.</p>

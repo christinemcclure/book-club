@@ -16,7 +16,14 @@
         <h4>Directed by Ishirô Honda</h4>
         <p>American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.</p>
         <a target="_blank" href="http://www.imdb.com/title/tt0047034/?ref_=fn_al_tt_3"><img src="../images/imdb.png" ></a>
-        </div>        
+        </div>       
+      
+        <div class="list-group-item">          
+        <h3>Marina Abramovic: The Artist Is Present</h3>
+        <h4>Directed by Matthew Akers, Jeff Dupre</h4>
+        <p>A documentary that follows the Serbian performance artist as she prepares for a retrospective of her work at The Museum of Modern Art in New York.</p>
+        <a target="_blank" href="http://www.imdb.com/title/tt2073029/?ref_=fn_al_tt_1"><img src="../images/imdb.png" ></a>
+        </div>         
      
         <div class="list-group-item">
         <h3>The Moving Picture</h3>
