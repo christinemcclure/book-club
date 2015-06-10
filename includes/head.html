@@ -36,7 +36,7 @@
         <a href="/movies"><p class="extra btn btn-custom">Movies!</p></a>
         <a href="/cookbooks"><p class="extra btn btn-custom">Cookbooks!</p></a>
         <br>
-        <a target="_self" href="#"><p class="survey btn btn-custom">Cast Your Vote</p></a>
+        <a target="_self" href="https://www.surveymonkey.com/s/GZSB2Q6"><p class="survey btn btn-custom">Cast Your Vote!</p></a>
         <a href="/2014"><p class="survey btn btn-custom">View 2014</p></a>
    </nav>
     </div>         
