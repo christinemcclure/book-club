@@ -94,5 +94,6 @@ p.survey:hover {
 
 h3.winner {
    color: $red;
-   font-size: $titleFont;
+   font-size: $titleFont +4px;
+   font-weight:800;
 }

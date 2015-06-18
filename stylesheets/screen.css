@@ -120,5 +120,6 @@ p.survey:hover {
 /* line 95, ../sass/screen.scss */
 h3.winner {
   color: #AF4A50;
-  font-size: 24px;
+  font-size: 28px;
+  font-weight: 800;
 }
