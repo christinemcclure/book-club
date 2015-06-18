@@ -18,7 +18,7 @@
     <a name="top"></a>
 <div class="container-fluid well well-lg">
     <div class="row">
-    <h1>2014 Book Club Picks and Winners</h1>
+    <h1>2015 Book Club Picks and Winners</h1>
   </div>
     
     <div class="row">
