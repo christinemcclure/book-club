@@ -5,7 +5,7 @@
       <h2 class="name-header">2015 Voting Round Open</h2>
      
         <div class="list-group-item">
-          <p>Review; vote; read; discuss. It's that simple!</p>
+          <p>Voting complete!</p>
         </div>
 
     </div>
