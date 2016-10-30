@@ -67,11 +67,11 @@ h2.name-header {
 }
 
 /* line 55, ../sass/screen.scss */
-p.btn-custom, p.dim, p.btn:hover, p.btn:focus {
+p.btn-custom, p.btn:hover, p.btn:focus {
   color: #efeee9;
 }
 
-/* line 57, ../sass/screen.scss */
+/* line 58, ../sass/screen.scss */
 .btn-custom {
   font-size: 13px;
   width: 150px;
@@ -82,17 +82,17 @@ p.btn-custom, p.dim, p.btn:hover, p.btn:focus {
   padding: 4px 6px;
 }
 
-/* line 67, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 .extra {
   background-color: #744545;
 }
 
-/* line 71, ../sass/screen.scss */
+/* line 72, ../sass/screen.scss */
 p.btn:hover {
   background-color: #7d3539;
 }
 
-/* line 76, ../sass/screen.scss */
+/* line 77, ../sass/screen.scss */
 .top {
   width: 40px;
   background-color: #c8cac5;
@@ -101,23 +101,23 @@ p.btn:hover {
   color: #494b45;
 }
 
-/* line 84, ../sass/screen.scss */
+/* line 85, ../sass/screen.scss */
 p.top:hover {
   background-color: #969990;
 }
 
-/* line 86, ../sass/screen.scss */
+/* line 87, ../sass/screen.scss */
 .survey {
   background-color: #475555;
   border-color: #30393a;
 }
 
-/* line 91, ../sass/screen.scss */
-p.survey:hover {
+/* line 92, ../sass/screen.scss */
+p.survey:hover, p.dim {
   background-color: #6a7e7f;
 }
 
-/* line 95, ../sass/screen.scss */
+/* line 96, ../sass/screen.scss */
 h3.winner {
   color: #af4a50;
   font-size: 28px;

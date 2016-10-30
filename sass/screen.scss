@@ -52,7 +52,8 @@ h2.name-header {margin:20px 0 10px 0;}
     padding: 10px;
     background: $rowColor;
 }
-p.btn-custom, p.dim, p.btn:hover, p.btn:focus{color:lighten($cream,25%);}
+p.btn-custom, p.btn:hover, p.btn:focus{color:lighten($cream,25%);}
+
 
 .btn-custom {
   font-size:13px;
@@ -88,7 +89,7 @@ p.top:hover{background-color:$grey;}
   border-color: darken($blue,25%);    
 }
 
-p.survey:hover {
+p.survey:hover, p.dim {
   background-color: $blue;   
 }
 
