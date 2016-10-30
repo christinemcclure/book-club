@@ -10,28 +10,7 @@
     <a name="carrie"></a><h2 class="name-header">Carrie's Picks</h2>
     <div class="list-group">
         
-        <div class="list-group-item">
-          <h3>Cutting the Stone</h3>
-          <h4>by Abraham Verghese</h4>
-            <a target="_blank" href="http://www.amazon.com/Cutting-Stone-Abraham-Verghese/dp/0375714367/ref=sr_1_1?s=books&ie=UTF8&qid=1433621793&sr=1-1&keywords=cutting+the+stone"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/cutting-for-stone-a-novel/oclc/502676860&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>
-
-        <div class="list-group-item">
-          <h3 class="winner">Stealing All Transmissions</h3>
-          <h4>by Randal Doane</h4>
-            <a target="_blank" href="http://www.amazon.com/Stealing-All-Transmissions-Secret-History/dp/1629630292/ref=sr_1_1?s=books&ie=UTF8&qid=1433637019&sr=1-1&keywords=Stealing+All+Transmissions%2C+Randal+Doane"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/stealing-all-transmissions-a-secret-history-of-the-clash/oclc/874099451&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>      
-        <div class="list-group-item">
-          <h3>When Books Went to War: The Stories that Helped Us Win World War II</h3>
-          <h4>by Molly Guptill Manning</h4>
-            <a target="_blank" href="http://www.amazon.com/When-Books-Went-War-Stories/dp/0544535022/ref=sr_1_1?s=books&ie=UTF8&qid=1433637146&sr=1-1&keywords=When+Books+Went+to+War%3A+The+Stories+that+Helped+Us+Win+World+War+II%2C+Molly+Guptill+Manning"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/when-books-went-to-war-the-stories-that-helped-us-win-world-war-ii/oclc/884299002&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>         
-        <div class="list-group-item">
-            <a href="#top"><p class="btn top">top</p></a>
-        </div>
+      <p>No picks this time.</p>
         
     </div>
   </div>  
@@ -42,24 +21,20 @@
     <div class="list-group">
         
         <div class="list-group-item">
-            <h3 class="winner">Consumed</h3>
-            <h4>by David Cronenberg</h4>
-            <a target="_blank" href="http://www.amazon.com/Consumed-Novel-David-Cronenberg/dp/1416596135/ref=sr_1_1?s=books&ie=UTF8&qid=1429217439&sr=1-1&keywords=David+Cronenberg%27s+novel+%22Consumed.%22"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/consumed-a-novel/oclc/862347743&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+            <h3>Hillbilly Elegy: A Memoir of a Family and Culture in Crisis</h3>
+            <h4>by J. D. Vance</h4>
+            <p>Hillbilly Elegy is a passionate and personal analysis of a culture in crisis—that of white working-class Americans. The decline of this group, a demographic of our country that has been slowly disintegrating over forty years, has been reported on with growing frequency and alarm, but has never before been written about as searingly from the inside. J. D. Vance tells the true story of what a social, regional, and class decline feels like when you were born with it hung around your neck.</p>
+            <a target="_blank" href="https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture/dp/0062300547/ref=sr_1_1?s=books&ie=UTF8&qid=1471271083&sr=1-1&keywords=hillbilly+elegy"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/hillbilly-elegy-a-memoir-of-a-family-and-culture-in-crisis/oclc/952097610/editions?editionsView=true&referer=br"><img src="../images/worldcat.jpg" /></a>
         </div>
         
-        <div class="list-group-item">
-            <h3>The Glass Castle: A Memoir</h3>
-            <h4>by Jeannette Walls</h4>
-            <a target="_blank" href=""><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href=""><img src="../images/worldcat.jpg" /></a>
-        </div>
         
         <div class="list-group-item">
-            <h3>Remembering Jim Crow: African Americans Tell About Life in the Segregated South</h3>
-            <h4>Edited by William H. Chafe</h4>
-            <a target="_blank" href=""><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href=""><img src="../images/worldcat.jpg" /></a>
+            <h3>Bury My Heart at Wounded Knee: An Indian History of the American West</h3>
+            <h4>by Dee Brown</h4>
+            <p>Immediately recognized as a revelatory and enormously controversial book since its first publication in 1971, Bury My Heart at Wounded Knee is universally recognized as one of those rare books that forever changes the way its subject is perceived. Now repackaged with a new introduction from bestselling author Hampton Sides to coincide with a major HBO dramatic film of the book, Bury My Heart at Wounded Knee.</p>
+            <a target="_blank" href="https://www.amazon.com/Bury-My-Heart-Wounded-Knee/dp/0805086846/ref=sr_1_1?s=books&ie=UTF8&qid=1477845075&sr=1-1&keywords=0805086846"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/bury-my-heart-at-wounded-knee-an-indian-history-of-the-american-west/oclc/138074378&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>
         
         <div class="list-group-item">
@@ -73,29 +48,7 @@
     <a name="elizabeth"></a><h2 class="name-header">Elizabeth's Picks</h2>
     <div class="list-group">
         
-        <div class="list-group-item">
-          <h3>The Handmaid's Tale</h3>
-          <h4>Margaret Atwood</h4>
-            <a target="_blank" href="http://www.worldcat.org/title/infinite-jest-a-novel/oclc/493204290&referer=brief_results"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/handmaids-tale/oclc/12558693&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>
-        
-        
-        <div class="list-group-item">
-          <h3 class="winner">The House of the Spirits: A Novel</h3>
-          <h4>by Isabel Allende</h4>
-            <a target="_blank" href="http://www.amazon.com/The-House-Spirits-A-Novel/dp/0553383809"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/house-of-the-spirits/oclc/61493264&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>
-
-        
-        <div class="list-group-item">
-          <h3>Infinite Jest</h3>
-          <h4>by David Foster Wallace </h4>
-            <a target="_blank" href="http://www.amazon.com/Infinite-Jest-David-Foster-Wallace/dp/0316066524"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/infinite-jest-a-novel/oclc/493204290&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>
-
+      <p>No picks this time.</p>
       
       <div class="list-group-item">
             <a href="#top"><p class="btn top">top</p></a>
@@ -111,26 +64,29 @@
       <div class="list-group">
 
           <div class="list-group-item">
-            <h3 class="winner">The Flame Alphabet</h3>
-            <h4>by Ben Marcus</h4>
-             <a target="_blank" href="http://www.amazon.com/Flame-Alphabet-Vintage-Contemporaries/dp/030773997X/ref=sr_1_1?s=books&ie=UTF8&qid=1433261808&sr=1-1&keywords=The+Flame+Alphabet"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/flame-alphabet/oclc/721886909&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+            <h3>Empire of Cotton: A Global History</h3>
+            <h4>by Sven Beckett</h4>
+            <p>The empire of cotton was, from the beginning, a fulcrum of constant global struggle between slaves and planters, merchants and statesmen, workers and factory owners. Sven Beckert makes clear how these forces ushered in the world of modern capitalism, including the vast wealth and disturbing inequalities that are with us today.</p>
+        <p>In a remarkably brief period, European entrepreneurs and powerful politicians recast the world’s most significant manufacturing industry, combining imperial expansion and slave labor with new machines and wage workers to make and remake global capitalism. The result is a book as unsettling as it is enlightening: a book that brilliantly weaves together the story of cotton with how the present global world came to exist.</p>
+             <a target="_blank" href="https://www.amazon.com/Empire-Cotton-History-Sven-Beckert/dp/0375713964/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1477845234&sr=1-1-fkmr0&keywords=Empire+of+Cotton%2C+Sven+Beckett"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/empire-of-cotton-a-global-history/oclc/904459253&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>
      
         <div class="list-group-item">
-            <h3>The Five Simple Machines</h3>
-            <h4>by McEwen Todd</h4>
-            <p>– Nicholas Lezard, Guardian</p>
+            <h3>One of Us: The Story of a Massacre in Norway -- and Its Aftermath</h3>
+            <h4>by Asne Seirstad</h4>
+            <p>On July 22, 2011, Anders Behring Breivik detonated a bomb outside the Norwegian prime minister's office in central Oslo, killing eight people. He then proceeded to a youth camp on the wooded island of Utøya, where he killed sixty-nine more, most of them teenage members of the country's governing Labour Party. In One of Us, the journalist Åsne Seierstad tells the story of this terrible day and its reverberations. How did Breivik, a gifted child from an affluent neighborhood in Oslo, become Europe's most reviled terrorist? How did he accomplish an astonishing one-man murder spree? And how did a famously peaceful and prosperous country cope with the slaughter of so many of its young?</p>
 
-            <a target="_blank" href="http://www.amazon.com/Five-Simple-Machines-McEwen/dp/0957326637/ref=sr_1_1?s=books&ie=UTF8&qid=1433261093&sr=1-1&keywords=The+5+Simple+Machines"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/five-simple-machines/oclc/824725643&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+            <a target="_blank" href="https://www.amazon.com/One-Us-Massacre-Norway-Aftermath/dp/0374536090/ref=sr_1_1?s=books&ie=UTF8&qid=1477845355&sr=1-1&keywords=0374536090"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/one-of-us-the-story-of-anders-breivik-and-the-massacre-in-norway/oclc/879582758&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>
 
         <div class="list-group-item">
-            <h3>Lionel Asbo: State of England </h3>
-            <h4>by Martin Amis</h4>
-            <a target="_blank" href="http://www.amazon.com/Lionel-Asbo-England-Vintage-International/dp/0307948080/ref=sr_1_1?s=books&ie=UTF8&qid=1433261392&sr=1-1&keywords=Lionel+Asbo"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/lionel-asbo-state-of-england/oclc/779097179&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+            <h3>A Brief History of Seven Killings: A Novel</h3>
+            <h4>by Marlon James</h4>
+            <p>On December 3, 1976, just before the Jamaican general election and two days before Bob Marley was to play the Smile Jamaica Concert, gunmen stormed his house, machine guns blazing. The attack nearly killed the Reggae superstar, his wife, and his manager, and injured several others. Marley would go on to perform at the free concert on December 5, but he left the country the next day, not to return for two years. Spanning decades and continents and peopled with a wide range of characters -- assassins, journalists, drug dealers, and even ghosts -- A Brief History of Seven Killings is the fictional exploration of that dangerous and unstable time and its bloody aftermath, from the streets and slums of Kingston in the 70s, to the crack wars in 80s New York, to a radically altered Jamaica in the 90s.</p>
+            <a target="_blank" href="https://www.amazon.com/Brief-History-Seven-Killings-Novel/dp/1594633940/ref=sr_1_1?s=books&ie=UTF8&qid=1477845601&sr=1-1&keywords=1594633940"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/brief-history-of-seven-killings-a-novel/oclc/871192481&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>
           
        <div class="list-group-item">
@@ -147,35 +103,44 @@
 
         <div class="list-group-item">
             <h3>
-                Orfeo: A Novel
+                Information Doesn't Want to Be Free: Laws for the Internet Age
             </h3>
             <h4>
-                by Richard Powers
+                by Cory Doctorow
             </h4>
-            <a target="_blank" href="http://www.amazon.com/Orfeo-Novel-Richard-Powers/dp/0393349845/ref=sr_1_1?s=books&ie=UTF8&qid=1433260787&sr=1-1&keywords=9780393349849"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/orfeo-a-novel/oclc/869770781&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+          <p>
+            In sharply argued, fast-moving chapters, Cory Doctorow’s Information Doesn’t Want to Be Free takes on the state of copyright and creative success in the digital age. Can small artists still thrive in the Internet era? Can giant record labels avoid alienating their audiences? This is a book about the pitfalls and the opportunities that creative industries (and individuals) are confronting today — about how the old models have failed or found new footing, and about what might soon replace them. An essential read for anyone with a stake in the future of the arts, Information Doesn’t Want to Be Free offers a vivid guide to the ways creativity and the Internet interact today, and to what might be coming next.
+          </p>
+            <a target="_blank" href="https://www.amazon.com/Information-Doesnt-Want-Be-Free/dp/1940450284/ref=sr_1_1?s=books&ie=UTF8&qid=1477845697&sr=1-1&keywords=1940450284"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/search?q=1940450284&qt=owc_search"><img src="../images/worldcat.jpg" /></a>
         </div>      
      
         <div class="list-group-item">
             <h3>
-                Salt: A World History Paperback
+                The Lost Weekend
             </h3>
             <h4>
-                by Mark Kurlansky
+                by Charles Jackson
             </h4>
-            <a target="_blank" href="http://www.amazon.com/Salt-World-History-Mark-Kurlansky/dp/0142001619/ref=sr_1_1?s=books&ie=UTF8&qid=1433260454&sr=1-1&keywords=9780142001615"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/salt-a-world-history/oclc/51565424&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+          <p>
+            It is 1936, and on the East Side of Manhattan, a would-be writer named Don Birnam decides to have a drink. And then another, and then another, until he’s in the midst of what becomes a five-day binge. The Lost Weekend moves with unstoppable speed, propelled by a heartbreaking but unflinching truth. It catapulted Charles Jackson to fame, and endures as an acute study of the ravages of alcoholism, as well as an unforgettable parable of the condition of the modern man.
+          </p>
+            <a target="_blank" href="https://www.amazon.com/Lost-Weekend-Charles-Jackson/dp/0307948714/ref=sr_1_1?s=books&ie=UTF8&qid=1477845800&sr=1-1&keywords=0307948714"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/lost-weekend/oclc/777659945&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>
 
         <div class="list-group-item">
-            <h3 class="winner">
-                So You've Been Publicly Shamed
+            <h3>
+                The Gap of Time: A Novel (Hogarth Shakespeare)
             </h3>
             <h4>
-                by Jon Ronson
+                by Jeanette Winterson
             </h4>
-            <a target="_blank" href="http://www.amazon.com/So-Youve-Been-Publicly-Shamed/dp/1594487138/ref=sr_1_1?s=books&ie=UTF8&qid=1433260994&sr=1-1&keywords=9781594487132"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/so-youve-been-publicly-shamed/oclc/893974244&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+          <p>
+            In The Gap of Time, Jeanette Winterson’s cover version of The Winter’s Tale, we move from London, a city reeling after the 2008 financial crisis, to a storm-ravaged American city called New Bohemia. Her story is one of childhood friendship, money, status, technology and the elliptical nature of time. Written with energy and wit, this is a story of the consuming power of jealousy on the one hand, and redemption and the enduring love of a lost child on the other.
+          </p>
+            <a target="_blank" href="https://www.amazon.com/Gap-Time-Novel-Hogarth-Shakespeare/dp/0804141371/ref=sr_1_1?s=books&ie=UTF8&qid=1477845875&sr=1-1&keywords=0804141371"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/gap-of-time-a-cover-version-of-william-shakespeares-the-winters-tale/oclc/935985139&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>      
 
        <div class="list-group-item">
@@ -185,32 +150,43 @@
     </div>
   </div>  
 
+<div class="row">
+    <a name="kate"></a><h2 class="name-header">Kate's Picks</h2>
+    <div class="list-group">
+        
+      <p>No picks this time.</p>
+      
+      <div class="list-group-item">
+            <a href="#top"><p class="btn top">top</p></a>
+        </div>
+        
+    </div>
+  </div>   
 
 <div class="row">
     <a name="liz"></a><h2 class="name-header">Liz's Picks</h2>
     <div class="list-group">
         
         <div class="list-group-item">
-            <h3>The Good Nurse: A True Story of Medicine, Madness, and Murder</h3>
-            <h4>by Charles Graeber</h4>
-            <a target="_blank" href="http://www.amazon.com/Good-Nurse-Medicine-Madness-Murder/dp/1455574139/ref=sr_1_1?s=books&ie=UTF8&qid=1433863651&sr=1-1&keywords=The+Good+Nurse%3A+A+True+Story+of+Medicine%2C+Madness%2C+and+Murder+by+Charles+Graeber"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/good-nurse-a-true-story-of-medicine-madness-and-murder/oclc/855905340&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+            <h3>Between the World and Me</h3>
+            <h4>Ta-Nehisi Coates </h4>
+            <p>
+              In a profound work that pivots from the biggest questions about American history and ideals to the most intimate concerns of a father for his son, Ta-Nehisi Coates offers a powerful new framework for understanding our nation’s history and current crisis. Americans have built an empire on the idea of “race,” a falsehood that damages us all but falls most heavily on the bodies of black women and men—bodies exploited through slavery and segregation, and, today, threatened, locked up, and murdered out of all proportion. What is it like to inhabit a black body and find a way to live within it? And how can we all honestly reckon with this fraught history and free ourselves from its burden?
+            </p>
+            <a target="_blank" href="https://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0812993543/ref=sr_1_1?s=books&ie=UTF8&qid=1471272766&sr=1-1&keywords=tahanesi+coates"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/between-the-world-and-me/oclc/912045191&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>
         
         <div class="list-group-item">
-            <h3 class="winner">The Private Life of Chairman Mao</h3>
-            <h4>by Li Zhi-Sui</h4>
-            <a target="_blank" href="http://www.amazon.com/Private-Life-Chairman-Mao/dp/0679764437/ref=sr_1_1?s=books&ie=UTF8&qid=1433863167&sr=1-1&keywords=The+Private+Life+of+Chairman+Mao+by+Li+Zhi-Sui"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/private-life-of-chairman-mao-the-memoirs-of-maos-personal-physician/oclc/30893068&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+            <h3>Go Set a Watchman</h3>
+            <h4>by Harper Lee</h4>
+            <p>
+              Maycomb, Alabama. Twenty-six-year-old Jean Louise Finch—"Scout"—returns home from New York City to visit her aging father, Atticus. Set against the backdrop of the civil rights tensions and political turmoil that were transforming the South, Jean Louise's homecoming turns bittersweet when she learns disturbing truths about her close-knit family, the town, and the people dearest to her. Memories from her childhood flood back, and her values and assumptions are thrown into doubt. Featuring many of the iconic characters from To Kill a Mockingbird, Go Set a Watchman perfectly captures a young woman, and a world, in painful yet necessary transition out of the illusions of the past—a journey that can only be guided by one's own conscience.
+            </p>
+            <a target="_blank" href="https://www.amazon.com/Go-Set-Watchman-Harper-Lee/dp/0062409859/ref=sr_1_1?s=books&ie=UTF8&qid=1477846094&sr=1-1&keywords=go+set+a+watchman"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/go-set-a-watchman/oclc/902725212&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>
 
-        <div class="list-group-item">
-            <h3>Song Yet Sung</h3>
-            <h4>by James McBride</h4>
-            <p>From the New York Times bestselling author of The Good Lord Bird, winner of the 2013 National Book Award for Fiction.</p>
-            <a target="_blank" href="http://www.amazon.com/Song-Yet-Sung-James-McBride/dp/1594483507/ref=sr_1_1?s=books&ie=UTF8&qid=1433863254&sr=1-1&keywords=Song+Yet+Sung+by+James+McBride"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/song-yet-sung/oclc/233548632&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>
 
         <div class="list-group-item">
             <a href="#top"><p class="btn top">top</p></a>
@@ -225,24 +201,33 @@
        
         
         <div class="list-group-item">
-            <h3>10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works&mdash;A True Story</h3>
-            <h4>by Dan Harris</h4>
-            <a target="_blank" href="http://www.amazon.com/10%25-Happier-Self-Help-Actually-Works--/dp/0062265431/ref=sr_1_1?s=books&ie=UTF8&qid=1433862392&sr=1-1&keywords=10%25+Happier%3A+How+I+Tamed+the+Voice+in+My+Head%2C+Reduced+Stress+Without+Losing+My+Edge"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works-a-true-story/oclc/858355317&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+            <h3>A Kim Jong-Il Production: The Extraordinary True Story of a Kidnapped Filmmaker, His Star Actress, and a Young Dictator's Rise to Power</h3>
+            <h4>by Paul Fischer</h4>
+            <p>
+              Before becoming the world’s most notorious dictator, Kim Jong-Il ran North Korea’s Ministry for Propaganda and all its film studios. Underwhelmed by the pool of talent available to him he took drastic steps, ordering the kidnap of Choi Eun-Hee (Madame Choi) – South Korea’s most famous actress – and her ex-husband Shin Sang-Ok, the country’s most famous filmmaker. But as Madame Choi and Shin Shang-Ok begin to make North Korea’s greatest films, they hatch a plan of escape worthy of a blockbuster Hollywood ending. A Kim Jong-Il Production is that rarest of books: a wildly entertaining, cunningly told story that offers a rare glimpse into a nation still wrapped in mystery.
+            </p>
+            <a target="_blank" href="https://www.amazon.com/Kim-Jong-Il-Production-Extraordinary-Kidnapped/dp/1250054273/ref=sr_1_1?s=books&ie=UTF8&qid=1477846223&sr=1-1&keywords=Kim+Jong-Il+Production%3A+The+Extraordinary+True+Story+of+a+Kidnapped+Filmmaker%2C+His+Star+Actress%2C"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/kim-jong-il-production-the-extraordinary-true-story-of-a-kidnapped-filmmaker-his-star-actress-and-a-young-dictators-rise-to-power/oclc/881437062&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>        
 
         <div class="list-group-item">
-            <h3>Riding the Rails: Teenagers on the Move During the Great Depression</h3>
-            <h4>by Errol Lincoln Uys</h4>
-            <a target="_blank" href="http://www.amazon.com/Riding-Rails-Teenagers-During-Depression/dp/0692302115/ref=sr_1_1?s=books&ie=UTF8&qid=1433862639&sr=1-1&keywords=Riding+the+Rails%3A+Teenagers+on+the+move+during+the+Great+Depression"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/riding-the-rails-teenagers-on-the-move-during-the-great-depression/oclc/41830838&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+            <h3>An Object of Beauty: A Novel</h3>
+            <h4>by Steve Martin</h4>
+            <p>
+              Lacey Yeager is young, captivating, and ambitious enough to take the NYC art world by storm. Groomed at Sotheby's and hungry to keep climbing the social and career ladders put before her, Lacey charms men and women, old and young, rich and even richer with her magnetic charisma and liveliness. Her ascension to the highest tiers of the city parallel the soaring heights--and, at times, the dark lows--of the art world and the country from the late 1990s through today.
+            </p>
+            <a target="_blank" href="https://www.amazon.com/Object-Beauty-Novel-Steve-Martin/dp/0446573655/ref=sr_1_1?s=books&ie=UTF8&qid=1477846333&sr=1-1&keywords=an+object+of+beauty%3A+a+novel"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/object-of-beauty-a-novel/oclc/548641964&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>
         
         <div class="list-group-item">
-            <h3 class="winner">A Walk on the Wild Side: A Novel</h3>
-            <h4>by Nelson Algren</h4>
-            <a target="_blank" href="http://www.amazon.com/Walk-Wild-Side-Novel/dp/0374525323/ref=sr_1_1?s=books&ie=UTF8&qid=1433862896&sr=1-1&keywords=A+walk+on+the+Wild+Side%2C+Nelson+Algren"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/walk-on-the-wild-side/oclc/39501480&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+            <h3>Just Kids</h3>
+            <h4>by Patti Smith</h4>
+            <p>
+              In Just Kids, Patti Smith’s first book of prose, the legendary American artist offers a never-before-seen glimpse of her remarkable relationship with photographer Robert Mapplethorpe in the epochal days of New York City and the Chelsea Hotel in the late sixties and seventies.  An honest and moving story of youth and friendship, Smith brings the same unique, lyrical quality to Just Kids as she has to the rest of her formidable body of work—from her influential 1975 album Horses to her visual art and poetry.
+            </p>
+            <a target="_blank" href="https://www.amazon.com/Just-Kids-Patti-Smith/dp/0060936223/ref=sr_1_1?s=books&ie=UTF8&qid=1477846426&sr=1-1&keywords=just+kids"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/just-kids/oclc/496864395&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>        
         
         <div class="list-group-item">
@@ -257,46 +242,16 @@
     <div class="list-group">
       
         <div class="list-group-item">          
-        <h3 class="winner">The Fall</h3>
-        <h4>Directed by Tarsem Singh</h4>
-        <a target="_blank" href="http://www.imdb.com/title/tt0460791/?ref_=fn_al_tt_2"><img src="../images/imdb.png" ></a>
+        <h3>I Knew Her Well</h3>
+        <h4>Directed by Antonio Pietrangeli</h4>
+        <a target="_blank" href="http://www.imdb.com/title/tt0060545/?ref_=fn_al_tt_1"><img src="../images/imdb.png" ></a>
         </div>   
         <div class="list-group-item">          
-        <h3>Godzilla</h3>
+        <h3>Lady Snowblood and Lady Snowblood 2: Song of Vengence</h3>
         <h4>Directed by Ishirô Honda</h4>
-        <a target="_blank" href="http://www.imdb.com/title/tt0047034/?ref_=fn_al_tt_3"><img src="../images/imdb.png" ></a>
+        <a target="_blank" href="http://www.imdb.com/title/tt0158714/?ref_=fn_tt_tt_1"><img src="../images/imdb.png" ></a>
         </div>  
-      
-        <div class="list-group-item">          
-        <h3>Life Itself</h3>
-        <h4>Directed by Steve James</h4>
-        <a target="_blank" href="http://www.imdb.com/title/tt2382298/?ref_=fn_al_tt_2"><img src="../images/imdb.png" ></a>
-        </div>       
-      
-        <div class="list-group-item">          
-        <h3>Marina Abramovic: The Artist Is Present</h3>
-        <h4>Directed by Matthew Akers, Jeff Dupre</h4>
-        <a target="_blank" href="http://www.imdb.com/title/tt2073029/?ref_=fn_al_tt_1"><img src="../images/imdb.png" ></a>
-        </div>         
-     
-        <div class="list-group-item">
-        <h3>The Moving Picture</h3>
-        <h4>Directed by Elizabeth Hodgman</h4>        
-            <a target="_blank" href="http://www.imdb.com/title/tt1826006/?ref_=fn_al_tt_1"><img src="../images/imdb.png" ></a>
-        </div>
-      
-     
-        <div class="list-group-item">
-        <h3>Playtime</h3>
-        <h4>Directed by Jacques Tati</h4>          
-            <a target="_blank" href="http://www.imdb.com/title/tt0062136/?ref_=fn_al_tt_1"><img src="../images/imdb.png" ></a>
-        </div>
 
-        <div class="list-group-item">
-        <h3>Spring, Summer, Fall, Winter... and Spring</h3>
-        <h4>Directed by Ki-duk Kim</h4>          
-            <a target="_blank" href="http://www.imdb.com/title/tt0374546/?ref_=nv_sr_1"><img src="../images/imdb.png" ></a>
-        </div>
         
        <div class="list-group-item">
             <a href="#top"><p class="btn top">top</p></a>
@@ -310,47 +265,24 @@
     <div class="list-group">
     
         <div class="list-group-item">
-            <h3>The Food You Want to Eat: 100 Smart, Simple Recipes</h3>
-            <h4>by Ted Allen </h4>
-            <a target="_blank" href="http://www.amazon.com/Food-You-Want-Eat-Recipes/dp/1400080908/ref=sr_1_1?s=books&ie=UTF8&qid=1433898416&sr=1-1&keywords=The+Food+You+Want+to+Eat"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/food-you-want-to-eat-100-smart-simple-recipes/oclc/56876934&referer=brief_results" /><img src="../images/worldcat.jpg" /></a>
+            <h3>The Adventures of Fat Rice: Recipes from the Chicago Restaurant Inspired by Macau</h3>
+            <h4>by Abraham Conlon</h4>
+            <p>
+              With 100 recipes, this is the first book to explore the vibrant food culture of Macau—an east-meets-west melting pot of Chinese, Portuguese, Malaysian, and Indian foodways—as seen through the lens of the cult favorite Chicago restaurant, Fat Rice. 
+            </p>
+            <a target="_blank" href="https://www.amazon.com/Adventures-Fat-Rice-Restaurant-Inspired/dp/1607748959/ref=sr_1_1?s=books&ie=UTF8&qid=1477846664&sr=1-1&keywords=The+Adventures+of+Fat+Rice%3A+Recipes+from+the+Chicago+Restaurant+Inspired+by+Macau"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/adventures-of-fat-rice-recipes-from-the-chicago-restaurant-inspired-by-macau/oclc/936532485&referer=brief_results" /><img src="../images/worldcat.jpg" /></a>
         </div>    
+  
       
         <div class="list-group-item">
-            <h3>At Home with the French Classics</h3>
-            <h4>by Richard Grausman</h4>
-            <a target="_blank" href="http://www.amazon.com/Home-French-Classics-Richard-Grausman/dp/0894806335/ref=sr_1_1?s=books&ie=UTF8&qid=1433543006&sr=1-1&keywords=at+home+with+the+french+classics+cookbook"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/at-home-with-the-french-classics/oclc/18135368&referer=brief_results" /><img src="../images/worldcat.jpg" /></a>
-        </div>     
-        
-        
-        <div class="list-group-item">
-            <h3>A Boat, a Whale &amp; a Walrus: Menus and Stories</h3>
-            <h4>by Renee Erickson</h4>
-            <a target="_blank" href="http://www.amazon.com/Boat-Whale-Walrus-Menus-Stories/dp/1570619263/ref=sr_1_1?s=books&ie=UTF8&qid=1433262871&sr=1-1&keywords=A+Boat%2C+A+Whale%2C+and+a+Walrus%2C+by+Renee+Erikson+and+Jess+Thomson"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/boat-a-whale-a-walrus-menus-and-stories/oclc/883365158&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>    
-        
-        <div class="list-group-item">
-            <h3 class="winner">Fifty Shades of Chicken: A Parody in a Cookbook</h3>
-            <h4>by F.L. Fowler</h4>
-            <a target="_blank" href="http://www.amazon.com/Fifty-Shades-Chicken-Parody-Cookbook/dp/0385345224/ref=sr_1_1?s=books&ie=UTF8&qid=1433863907&sr=1-1&keywords=Fifty+Shades+of+Chicken+by+FL+Fowler"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/fifty-shades-of-chicken-a-parody-in-a-cookbook/oclc/811337388&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>    
-      
-    
-        <div class="list-group-item">
-            <h3>Jerusalem: A Cookbook</h3>
-            <h4>by Yotam Ottolenghi and Sami Tamimi</h4>
-            <a target="_blank" href="http://www.amazon.com/Jerusalem-Cookbook-Yotam-Ottolenghi/dp/1607743949/ref=sr_1_1?s=books&ie=UTF8&qid=1433637310&sr=1-1&keywords=Jerusalem%2C+Yotam+Ottolenghi+and+Sami+Tamimi"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/jerusalem-a-cookbook/oclc/775415538&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
-        </div>    
-      
-        <div class="list-group-item">
-            <h3>Soul Food: The Surprising Story of an American Cuisine, One Plate at a Time</h3>
-            <h4>by Adrian Miller</h4>
-            <a target="_blank" href="http://www.amazon.com/Soul-Food-Surprising-American-Cuisine/dp/146960762X/ref=sr_1_1?s=books&ie=UTF8&qid=1433263070&sr=1-1&keywords=9781469607627"><img src="../images/amazon.jpg" ></a>
-            <a target="_blank" href="http://www.worldcat.org/title/soul-food-the-surprising-story-of-an-american-cuisine-one-plate-at-a-time/oclc/836261092&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+            <h3>Mexico: One Plate At A Time</h3>
+            <h4>by Rick Bayless</h4>
+            <p>
+              Rick Bayless has been acclaimed widely as America's foremost proponent of Mexico's thrillingly diverse cuisine. In this companion book to his 26-part Public Television series, he takes us, with boyish enthusiasm, through Mexican markets, street stalls and home kitchens to bring us the great dishes of Mexico, one “plate” at a time.
+            </p>
+            <a target="_blank" href="https://www.amazon.com/Rick-Bayless-Mexico-Plate-Time/dp/068484186X/ref=sr_1_1?s=books&ie=UTF8&qid=1477846768&sr=1-1&keywords=rick+bayless+mexico+one+plate+at+a+time"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/rick-bayless-mexico-one-plate-at-a-time/oclc/44573373&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
         </div>
         
        <div class="list-group-item">
