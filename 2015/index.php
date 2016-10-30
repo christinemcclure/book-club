@@ -1,11 +1,32 @@
-<?php include("../includes/head.html"); ?>
-  
+<!DOCTYPE html>
+<html lang="en" id="christinemcclure-com"> 
+<head>
+  <meta name="description" content="">
+  <meta name="author" content="Christine McClure">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <title>2015 Book Club Selections</title>
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/screen.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/css3.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="../stylesheets/print.css" />
+ <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <a name="top"></a>
+ <div class="container-fluid well well-lg">   
   <div class="row">
     <div class="list-group">
-      <h1 class="name-header">2015 Voting Results</h1>
+      <h1 class="name-header">2015 Book Club Picks and Winners</h1>
     </div>
   </div>    
-
+    <div class="row">
+      <nav>
+        <a href="/"><p class="btn btn-custom">Back</p></a>
+   </nav>
+    </div>    
   <div class="row">
     <a name="carrie"></a><h2 class="name-header">Carrie's Picks</h2>
     <div class="list-group">
@@ -359,7 +380,7 @@
 
     </div>    
   </div>    
-
+ </div>
 
 </body>
 </html>
