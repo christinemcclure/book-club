@@ -36,7 +36,7 @@ h4 {
 
 /* line 32, ../sass/screen.scss */
 body {
-  background: #6A7E7F;
+  background: #6a7e7f;
   color: #2f302d;
 }
 
@@ -67,7 +67,7 @@ h2.name-header {
 }
 
 /* line 55, ../sass/screen.scss */
-p.btn-custom, p.btn:hover, p.btn:focus {
+p.btn-custom, p.dim, p.btn:hover, p.btn:focus {
   color: #efeee9;
 }
 
@@ -77,7 +77,7 @@ p.btn-custom, p.btn:hover, p.btn:focus {
   width: 150px;
   font-weight: 900;
   margin: 4px;
-  background-color: #AF4A50;
+  background-color: #af4a50;
   border-color: #744545;
   padding: 4px 6px;
 }
@@ -114,12 +114,12 @@ p.top:hover {
 
 /* line 91, ../sass/screen.scss */
 p.survey:hover {
-  background-color: #6A7E7F;
+  background-color: #6a7e7f;
 }
 
 /* line 95, ../sass/screen.scss */
 h3.winner {
-  color: #AF4A50;
+  color: #af4a50;
   font-size: 28px;
   font-weight: 800;
 }
