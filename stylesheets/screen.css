@@ -113,11 +113,16 @@ p.top:hover {
 }
 
 /* line 92, ../sass/screen.scss */
-p.survey:hover, p.survey.btn.btn-custom.dim {
+p.survey:hover, p.btn.btn-custom.dim {
   background-color: #6a7e7f;
 }
 
 /* line 96, ../sass/screen.scss */
+p.btn.btn-custom.dim:hover {
+  background-color: #92a3a4;
+}
+
+/* line 100, ../sass/screen.scss */
 h3.winner {
   color: #af4a50;
   font-size: 28px;
