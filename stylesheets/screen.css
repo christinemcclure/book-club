@@ -113,7 +113,7 @@ p.top:hover {
 }
 
 /* line 92, ../sass/screen.scss */
-p.survey:hover, p.dim {
+p.survey:hover, p.survey.btn.btn-custom.dim {
   background-color: #6a7e7f;
 }
 
