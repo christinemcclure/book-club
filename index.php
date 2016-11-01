@@ -2,7 +2,7 @@
   
   <div class="row">
     <div class="list-group">
-      <h1 class="name-header">2015 Voting Results</h1>
+      <h1 class="name-header">2016 Voting</h1>
     </div>
   </div>    
 
