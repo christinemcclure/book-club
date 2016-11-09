@@ -154,7 +154,20 @@
     <a name="kate"></a><h2 class="name-header">Kate's Picks</h2>
     <div class="list-group">
         
-      <p>No picks this time.</p>
+
+        <div class="list-group-item">
+            <h3>
+                Cat Wars: The Devastating Consequences of a Cuddly Killer
+            </h3>
+            <h4>
+                Peter P. Marra & Chris Santella
+            </h4>
+          <p>
+            In 1894, a lighthouse keeper named David Lyall arrived on Stephens Island off New Zealand with a cat named Tibbles. In just over a year, the Stephens Island Wren, a rare bird endemic to the island, was rendered extinct. Mounting scientific evidence confirms what many conservationists have suspected for some time—that in the United States alone, free-ranging cats are killing birds and other animals by the billions. Equally alarming are the little-known but potentially devastating public health consequences of rabies and parasitic Toxoplasma passing from cats to humans at rising rates. Cat Wars tells the story of the threats free-ranging cats pose to biodiversity and public health throughout the world, and sheds new light on the controversies surrounding the management of the explosion of these cat populations.
+          </p>
+            <a target="_blank" href="https://www.amazon.com/Cat-Wars-Devastating-Consequences-Cuddly/dp/0691167419/ref=sr_1_1/166-6956480-3038237?s=books&ie=UTF8&qid=1478718174&sr=1-1&keywords=cat+wars+The+Devastating+Consequences+of+a+Cuddly+Killer"><img src="../images/amazon.jpg" ></a>
+            <a target="_blank" href="http://www.worldcat.org/title/cat-wars-the-devastating-consequences-of-a-cuddly-killer/oclc/956378970&referer=brief_results"><img src="../images/worldcat.jpg" /></a>
+        </div>    
       
       <div class="list-group-item">
             <a href="#top"><p class="btn top">top</p></a>
