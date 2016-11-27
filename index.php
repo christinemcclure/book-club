@@ -21,7 +21,7 @@
     <div class="list-group">
         
         <div class="list-group-item">
-            <h3>Hillbilly Elegy: A Memoir of a Family and Culture in Crisis</h3>
+            <h3 class="winner">Hillbilly Elegy: A Memoir of a Family and Culture in Crisis</h3>
             <h4>by J. D. Vance</h4>
             <p>Hillbilly Elegy is a passionate and personal analysis of a culture in crisis—that of white working-class Americans. The decline of this group, a demographic of our country that has been slowly disintegrating over forty years, has been reported on with growing frequency and alarm, but has never before been written about as searingly from the inside. J. D. Vance tells the true story of what a social, regional, and class decline feels like when you were born with it hung around your neck.</p>
             <a target="_blank" href="https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture/dp/0062300547/ref=sr_1_1?s=books&ie=UTF8&qid=1471271083&sr=1-1&keywords=hillbilly+elegy"><img src="../images/amazon.jpg" ></a>
@@ -73,7 +73,7 @@
         </div>
      
         <div class="list-group-item">
-            <h3>One of Us: The Story of a Massacre in Norway -- and Its Aftermath</h3>
+            <h3 class="winner">One of Us: The Story of a Massacre in Norway -- and Its Aftermath</h3>
             <h4>by Asne Seirstad</h4>
             <p>On July 22, 2011, Anders Behring Breivik detonated a bomb outside the Norwegian prime minister's office in central Oslo, killing eight people. He then proceeded to a youth camp on the wooded island of Utøya, where he killed sixty-nine more, most of them teenage members of the country's governing Labour Party. In One of Us, the journalist Åsne Seierstad tells the story of this terrible day and its reverberations. How did Breivik, a gifted child from an affluent neighborhood in Oslo, become Europe's most reviled terrorist? How did he accomplish an astonishing one-man murder spree? And how did a famously peaceful and prosperous country cope with the slaughter of so many of its young?</p>
 
@@ -102,7 +102,7 @@
       <a name="jeff"></a><h2 class="name-header">Jeff's Picks</h2>
 
         <div class="list-group-item">
-            <h3>
+            <h3 class="winner">
                 Information Doesn't Want to Be Free: Laws for the Internet Age
             </h3>
             <h4>
@@ -156,7 +156,7 @@
         
 
         <div class="list-group-item">
-            <h3>
+            <h3 class="winner">
                 Cat Wars: The Devastating Consequences of a Cuddly Killer
             </h3>
             <h4>
@@ -181,7 +181,7 @@
     <div class="list-group">
         
         <div class="list-group-item">
-            <h3>Between the World and Me</h3>
+            <h3 class="winner">Between the World and Me</h3>
             <h4>Ta-Nehisi Coates </h4>
             <p>
               In a profound work that pivots from the biggest questions about American history and ideals to the most intimate concerns of a father for his son, Ta-Nehisi Coates offers a powerful new framework for understanding our nation’s history and current crisis. Americans have built an empire on the idea of “race,” a falsehood that damages us all but falls most heavily on the bodies of black women and men—bodies exploited through slavery and segregation, and, today, threatened, locked up, and murdered out of all proportion. What is it like to inhabit a black body and find a way to live within it? And how can we all honestly reckon with this fraught history and free ourselves from its burden?
@@ -234,7 +234,7 @@
         </div>
         
         <div class="list-group-item">
-            <h3>Just Kids</h3>
+            <h3 class="winner">Just Kids</h3>
             <h4>by Patti Smith</h4>
             <p>
               In Just Kids, Patti Smith’s first book of prose, the legendary American artist offers a never-before-seen glimpse of her remarkable relationship with photographer Robert Mapplethorpe in the epochal days of New York City and the Chelsea Hotel in the late sixties and seventies.  An honest and moving story of youth and friendship, Smith brings the same unique, lyrical quality to Just Kids as she has to the rest of her formidable body of work—from her influential 1975 album Horses to her visual art and poetry.
@@ -260,7 +260,7 @@
         <a target="_blank" href="http://www.imdb.com/title/tt0060545/?ref_=fn_al_tt_1"><img src="../images/imdb.png" ></a>
         </div>   
         <div class="list-group-item">          
-        <h3>Lady Snowblood and Lady Snowblood 2: Song of Vengence</h3>
+        <h3 class="winner">Lady Snowblood and Lady Snowblood 2: Song of Vengence</h3>
         <h4>Directed by Ishirô Honda</h4>
         <a target="_blank" href="http://www.imdb.com/title/tt0158714/?ref_=fn_tt_tt_1"><img src="../images/imdb.png" ></a>
         </div>  
@@ -289,7 +289,7 @@
   
       
         <div class="list-group-item">
-            <h3>Mexico: One Plate At A Time</h3>
+            <h3 class="winner">Mexico: One Plate At A Time</h3>
             <h4>by Rick Bayless</h4>
             <p>
               Rick Bayless has been acclaimed widely as America's foremost proponent of Mexico's thrillingly diverse cuisine. In this companion book to his 26-part Public Television series, he takes us, with boyish enthusiasm, through Mexican markets, street stalls and home kitchens to bring us the great dishes of Mexico, one “plate” at a time.
