@@ -1,4 +1,5 @@
-basic
-=====
+Book Club
+===========
+Original html files in html branch
+WP theme in wordpress branch
 
-basic HTML layout, with my normal paths to CSS, javascript, etc. 
