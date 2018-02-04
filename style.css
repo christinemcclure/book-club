@@ -1,10 +1,4 @@
-/*
- Theme Name:   Kotha Child
- Theme URI:    http://localhost/kotha-child/
- Description:  Custom colors, functions for Kotha
- Template:     kotha
- Version:      1.0.0
- Text Domain:  kotha-child
-*/
-
-.winner{color:blue;}
+/* line 1, sass/style.scss */
+.winner {
+  color: orange;
+}
